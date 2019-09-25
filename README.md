@@ -12,5 +12,5 @@ https://oauthfb96.blogspot.com/2019/09/oauth-introduction.html
 
 4) after you can run web application using following link with any webbrowser
 
-5) link -> https://localhost/Auth3/ 
-6)for further details refer  https://oauthfb96.blogspot.com/2019/09/oauth-introduction.html
+
+5)for further details refer  https://oauthfb96.blogspot.com/2019/09/oauth-introduction.html
